@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ganesh Singh</h1>
 <h3 align="center">A Passionate Software Engineer and Data Scientist from India</h3>
 
-- 🌱 I’m currently learning **Python, GoLang**
+- 🌱 I’m currently learning **Python, GoLang**, **HLD**, **LLD**, **DSA**
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, Django, Flask, GoLang**
 
